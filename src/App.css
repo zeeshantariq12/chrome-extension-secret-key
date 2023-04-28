@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  min-width: 300px;
+  max-width: 300px;
+  min-height: 350px;
+  max-height: 350px;
+  background-color: lightblue;
+  padding-top: 2%;
+}
+
+.btn {
+  border-radius: 0;
+  width: 100px;
+  background-color: purple;
+  border: 0;
+}
+
+.btn-primary {
+  background-color: purple;
+}
